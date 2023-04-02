@@ -23,5 +23,7 @@ this is the main course that you myst finished
 this is the main course that you myst finished
 this is the main course that you myst finished
 
+<<<<<<< HEAD
 master can be change
+=======
 you are amazing,but this is the hot-fix branch
